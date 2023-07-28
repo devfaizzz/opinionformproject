@@ -1,0 +1,60 @@
+* {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+header img {
+  margin: 0;
+  padding: 0;
+  width: 12vw;
+  height: 22vh;
+}
+
+.bold pre {
+  color: white;
+  display: inline block;
+  font-family: "Anton", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.bold {
+  display: inline block;
+  position: relative;
+  left: 367px;
+}
+
+form input {
+  color: white;
+  font-family: "Anton", sans-serif;
+  font-family: "Lato", sans-serif;
+  background-color: rgba(192, 7, 7, 0.856);
+}
+
+#form form input {
+  position: relative;
+  left: 467px;
+}
+
+.box1 {
+  display: inline;
+  width: 467vw;
+  height: 50vh;
+}
+
+footer {
+    color: whitesmoke;
+    position: relative;
+    top: 17rem;
+    text-align: center;
+    
+}
+
+footer span{
+    background-color: rgba(174, 4, 4, 0.919);
+}
+footer p{
+    background-color: rgba(174, 4, 4, 0.919);
+}
